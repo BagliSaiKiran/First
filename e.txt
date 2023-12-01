@@ -1,2 +1,3 @@
 1st line in e file
 hlo
+new
